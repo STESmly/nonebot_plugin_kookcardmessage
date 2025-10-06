@@ -1,6 +1,6 @@
 [project]
 name = "nonebot_plugin_kookcardmessage"
-version = "0.1.0"
+version = "0.1.1"
 description = "kook卡片消息发送适配器"
 authors = [
     {name = "STESmly", email = "3549337307@qq.com"},
