@@ -1,0 +1,11 @@
+[project]
+name = "nonebot_plugin_kookcardmessage"
+version = "0.1.0"
+description = "kook卡片消息发送适配器"
+authors = [
+    {name = "STESmly", email = "3549337307@qq.com"},
+]
+dependencies = ["nonebot2>=2.4.3"]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
